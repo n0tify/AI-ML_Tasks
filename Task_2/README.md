@@ -1,7 +1,7 @@
 # Task 2: Variables, Data Types & Type Conversion
 
 ## 📌 Description
-This project demonstrates fundamental Python concepts regarding data handling, memory management, and user interaction. The script `datatypes_demo.py` is an interactive program that processes user input to perform calculations and visualizes the results.
+This project demonstrates fundamental Python concepts regarding data handling, memory management, and user interaction. The script is an interactive program that processes user input to perform calculations and visualizes the results.
 
 ## 🚀 Key Features implemented
 * **Variable Declaration:** Usage of `int`, `float`, `string`, and `boolean` types.
@@ -16,6 +16,6 @@ This project demonstrates fundamental Python concepts regarding data handling, m
 * Matplotlib (standard in Google Colab)
 
 ##  ▶️ How to Run
-1.  Open `datatypes_demo.py` in Google Colab or VS Code.
+1.  Open the script code in Google Colab or VS Code.
 2.  Run the script.
 3.  Enter the requested details (Name, Budget, Count) when prompted.
