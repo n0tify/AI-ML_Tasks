@@ -1,4 +1,4 @@
-Task 4
+# Task 4
 # 🛠️ Feature Engineering & Preprocessing Pipeline
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
@@ -74,4 +74,4 @@ The pipeline generates visualization comparing the data distribution **Before** 
 4.  **Output:** * Processed file saved as: `adult_income_processed_advanced.csv`
 
 ---
-*Developed by [Your Name] for Python Developer Internship.*
+
